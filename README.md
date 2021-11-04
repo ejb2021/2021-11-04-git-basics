@@ -11,3 +11,8 @@
 - `HEAD` : where you currently at
 - `git diff HEAD~<NUM> <FILE>` : capares current fie to file <NUM> ago
 - `git diff <HASH> <FILE>` : compares file to <HASH> version
+
+- `git checkout <HASH> <FILE>` : restore <FILE> to version in <HASH>
+- Use git status to help find commands to unstage and restore file
+   - if you run git checkout without the file you can fix this by running `git checkout main`
+
