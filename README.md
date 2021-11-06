@@ -21,7 +21,7 @@
 
 # Remotes
 
--`ssh-keygen` : to create ssh keys
+- `ssh-keygen` : to create ssh keys
 - `git remote add <URL> : adds URL
 - `git push origin main`: push to the main branch to the origin remote
 	
