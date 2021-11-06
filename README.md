@@ -1,4 +1,4 @@
-# git basics
+# Git Basics
 
 - `git init` : initialize git repositiory in current working directory
 - `git status` : give you the status
@@ -19,7 +19,7 @@
 - use `.gitkeep` to "keep" an empty folder
 - use `.gitignore` to ignore files/patterns
 
-# Remotes
+# Remotes :
 
 - `ssh-keygen` : to create ssh keys
 - `git remote add <URL> : adds URL
